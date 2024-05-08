@@ -1,0 +1,8 @@
+# x86でコンパイル
+rustup target add i686-pc-windows-msvc
+cargo build --target=i686-pc-windows-msvc
+
+
+# x64 
+rustup target add x86_64-pc-windows-msvc
+cargo build --target=x86_64-pc-windows-msvc

@@ -1,0 +1,1 @@
+(Get-Content C:\Users\kojir\Desktop\OSEP\rust_dev\winapi_mal_mk2 - ƒRƒs[\target\debug\test.txt) -replace B,A
